@@ -1,1 +1,1 @@
-A websocket remote desktop proxy server and a self-contained html file for connecting to the server. Useful in restricted environments where http(s) is blocked but you can still load local files.
+A websocket remote desktop server and a self-contained html file for connecting to the server. Useful in restricted environments where http(s) is blocked but you can still load local files.
